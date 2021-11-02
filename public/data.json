@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "id":1,
+            "title":"Redmi K40 游戏增强版",
+            "xingneng":"「12GB+128GB闪降100元；12GB+256GB闪降200元（不含李小龙版）；享+1元得小米定制马克杯」",
+            "image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a65c16175d0a7754c9eb8a54e09b6754.png",
+            "price":1999,
+            "shuliang":1
+        },
+        {
+            "id":2,
+            "title":"腾讯黑鲨游戏手机3S",
+            "xingneng":"骁龙865处理器 / 双模5G / 270Hz触控采样率+120Hz屏幕刷新率 / 三星AMOLED全面屏 / 最高65W极速闪充+背部磁吸充电 / 4720mAh大容量双电池 / UFS3.1闪存+LPDDR5运存 / “三明治”液冷散热 / JoyUI 12 游戏操作系统 / 畅玩投屏",
+            "image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a76df38086f438f5513c470d843da783.png",
+            "price":3999,
+            "shuliang":1
+        },
+        {
+            "id":3,
+            "title":"小米MIX Alpha",
+            "xingneng":"创新环绕屏，极具未来感的智能交互体验 / 1亿像素超高清相机，超大感光元件 / 5G双卡全网通超高速网络 / 骁龙855Plus旗舰处理器 / 纳米硅基锂离子4050mAh电池，40W超级快充 / 钛合金+精密陶瓷+蓝宝石镜片前沿工艺",
+            "image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0c4b5e30d14ca8b51dc6fa6917295ff5.png",
+            "price":19999,
+            "shuliang":1
+        },
+        {
+            "id":4,
+            "title":"Redmi K30 4G",
+            "xingneng":"120Hz高帧率流速屏 / 索尼6400万前后六摄 / 6.67''小孔径全面屏 / 最高可选8GB+256GB大存储 / 高通骁龙730G处理器 / 3D四曲面玻璃机身 / 4500mAh+27W快充 / 多功能NFC",
+            "image":"http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efd0aa03675839c8f20e8c38de8229c1.png",
+            "price":1299,
+            "shuliang":1
+        },
+        {
+            "id":5,
+            "title":"小米10至尊纪念版",
+            "xingneng":"120X 超远变焦 / 120W 秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 /  双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 / 双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W  有线秒充+50W无线秒充+10W无线反充 /  WiFi 6 / 多功能NFC / 红外遥控",
+            "image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2a47c566e14b2da1a6cc0780060a59d0.png",
+            "price":5299,
+            "shuliang":1
+        }
+    ]
+}
