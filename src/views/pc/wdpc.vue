@@ -5,7 +5,7 @@
 </template>
 
 <style>
-    .box{
+ .box{
         width: 100%;
         font-size: 250px;
         line-height: 500px;
